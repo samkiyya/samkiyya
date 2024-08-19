@@ -47,7 +47,7 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
 2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
 <!--END_SECTION:activity-->
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samkiyya&theme=radical)](https://github.com/samkiyya/github-readme-activity-graph)
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samkiyya&theme=darcula)](https://github.com/samkiyya/github-readme-activity-graph)
 
 ## 📫 Get in Touch
 
