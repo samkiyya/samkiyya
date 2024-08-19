@@ -14,3 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋, I'm Samuel Aberra
+### Full Stack Developer | Tech Enthusiast | Lifelong Learner
+
+I'm a passionate Full Stack Developer with a strong background in Information Systems. I love working on innovative projects and exploring new technologies to solve real-world problems. My journey in tech began with a deep interest in systems, and I've since developed a diverse skill set in web development, mobile app development, and AI.
+
+## 🛠️ Skills & Technologies
+
+- **Languages**: C#, Python, JavaScript, Bash Scripting, C
+- **Frameworks**: React, Flutter, Node.js, Flask
+- **Tools**: Git, VS Code, Inkscape, Datadog
+- **Platforms**: Arch Linux, AWS, Firebase
+
+## 🚀 Featured Projects
+
+### [Guzoye Tourism Management System](https://github.com/samkiyya/guzoye-tms)
+A comprehensive tourism management system with features like Google Map integration and a knowledge-based chatbot for user support. Built with React.js and Flask.
+
+### [Banking Mobile App](https://github.com/samkiyya/banking-app)
+A mobile app developed during my internship at the Commercial Bank of Ethiopia, offering secure banking services. Built with Flutter and Firebase.
+
+### [Weather Forecasting Expert System](https://github.com/samkiyya/weather-expert)
+A Python-based expert system for accurate weather forecasting, using AI and Machine Learning models.
+
+## 📊 GitHub Stats
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiyya&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/samuelaberra](https://www.linkedin.com/in/samuelaberra)
+- Personal Website: [samuelaberra.dev](https://samuelaberra.dev)
+- Email: [samuelabera523@gmail.com](mailto:samuelabera523@gmail.com)
+
+## 🤝 Contributions & Open Source
+
+I'm always open to collaboration on interesting projects. Feel free to check out my repositories and contribute to any project that excites you!
+
+## 🌟 Achievements
+
+- **ALX Software Engineering Program**: Completed a 12-month program with a focus on Back End Development.
+- **Top Scorer**: Consistently ranked first in class throughout my academic career.
+
+## 📝 Blogs & Articles
+
+- [My Journey with Arch Linux](https://blog.samuelaberra.dev/arch-linux)
+- [Building Scalable Applications with React](https://blog.samuelaberra.dev/react-scalable-apps)
+
+## 🎯 Hobbies & Interests
+
+- **Hobbies**: Traveling, reading about new technologies, and exploring open-source projects.
+
+![Profile Views](https://komarev.com/ghpvc/?username=samkiyya)
+
+## 🔗 Let's Connect
+
+I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out!
