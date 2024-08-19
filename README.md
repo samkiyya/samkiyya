@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer with a strong background in Information Sy
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: C#, Python, JavaScript, Bash Scripting, C
+- **Languages**: JavaScript, Bash Scripting, Python, C, C#, C++
 - **Frameworks**: React, Flutter, Node.js, Flask
 - **Tools**: Git, VS Code, Inkscape, Datadog
 - **Platforms**: Arch Linux, AWS, Firebase
@@ -37,13 +37,22 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 
 ## 📊 GitHub Stats
 
+<!--![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)-->
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiyya&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samkiyya&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkiyya&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samkiyya&repo=repository-name&theme=radical)](https://github.com/samkiyya/repository-name)
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
+2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
+<!--END_SECTION:activity-->
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=samkiyya&theme=radical)
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/samuelaberra](https://www.linkedin.com/in/samuelaberra)
-- Personal Website: [samuelaberra.dev](https://samuelaberra.dev)
+- LinkedIn: [linkedin.com/in/samkiyya](https://www.linkedin.com/in/samkiyya)
+- Personal Website: [samuelaberra.onrender.com](https://samuelaberra.onrender.com)
 - Email: [samuelabera523@gmail.com](mailto:samuelabera523@gmail.com)
 
 ## 🤝 Contributions & Open Source
