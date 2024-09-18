@@ -26,13 +26,13 @@ I'm a passionate Full Stack Developer with a strong background in Information Sy
 
 ## 🚀 Featured Projects
 
-### [Guzoye Tourism Management System](https://github.com/samkiyya/guzoye-tms)
+### [Guzoye Tourism Management System](https://github.com/samkiyya/Guzoye-final_year_project)
 A comprehensive tourism management system with features like Google Map integration and a knowledge-based chatbot for user support. Built with React.js and Flask.
 
-### [Banking Mobile App](https://github.com/samkiyya/banking-app)
+### [Banking Mobile App](https://github.com/samkiyya/Flutter-Banking-Mobile-App)
 A mobile app developed during my internship at the Commercial Bank of Ethiopia, offering secure banking services. Built with Flutter and Firebase.
 
-### [Weather Forecasting Expert System](https://github.com/samkiyya/weather-expert)
+### [Weather Forecasting Expert System](https://github.com/samkiyya/Weather-forecasting-Expert-system-)
 A Python-based expert system for accurate weather forecasting, using AI and Machine Learning models.
 
 ## 📊 GitHub Stats
@@ -42,7 +42,7 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiyya&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samkiyya&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkiyya&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samkiyya&repo=repository-name&theme=radical)](https://github.com/samkiyya/repository-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samkiyya&repo=alx-system_engineering-devops&theme=radical)](https://github.com/samkiyya/alx-system_engineering-devops)
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
 2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
