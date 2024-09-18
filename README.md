@@ -40,7 +40,7 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 <!--![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)-->
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiyya&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samkiyya&theme=radical)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samkiyya&theme=radical)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkiyya&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samkiyya&repo=alx-system_engineering-devops&theme=radical)](https://github.com/samkiyya/alx-system_engineering-devops)
 <!--START_SECTION:activity-->
