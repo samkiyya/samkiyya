@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Samuel Aberra
 ### Full Stack Developer | Tech Enthusiast | Lifelong Learner
 
-I'm a passionate Full Stack Developer with a strong background in Information Systems. I love working on innovative projects and exploring new technologies to solve real-world problems. My journey in tech began with a deep interest in systems, and I've since developed a diverse skill set in web development, mobile app development, and AI.
+I'm a passionate Full Stack Developer with a strong background in Software Engineering. I love working on innovative projects and exploring new technologies to solve real-world problems. My journey in tech began with a deep interest in systems, and I've since developed a diverse skill set in web development, mobile app development, and AI.
 
 ## 🛠️ Skills & Technologies
 
